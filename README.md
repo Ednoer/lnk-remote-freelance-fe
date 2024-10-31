@@ -16,4 +16,7 @@ from FE:
 ![image](https://i.ibb.co.com/SwXYdj2/Screenshot-2024-10-31-at-21-05-49.png)
 
 Received Email:
-![image](https://i.ibb.co.com/2MM28r5/Screenshot-2024-10-31-at-20-25-01.png)# lnk-remote-freelance-fe
+![image](https://i.ibb.co.com/2MM28r5/Screenshot-2024-10-31-at-20-25-01.png)
+
+
+## REPO BE: https://github.com/Ednoer/lnk-remote-freelance-be
